@@ -1,3 +1,6 @@
+#this python program is a game of tic tac toe for two players
+#you enter your chances as given accordingly and proceed in the game
+#happy tic tac toeing
 board=[['_' for i in range (3)]for j in range (3)]
 for i in range (0,3):
     for j in range(0,3):
