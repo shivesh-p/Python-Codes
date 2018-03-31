@@ -1,3 +1,10 @@
+"""
+@author: shivesh_pandey
+This program just gives us an general idea of what inheritance is and how we can use it in our programs.
+We have a super clss and a sub class which inherits the features of the super class.
+
+"""
+
 class animal:
     name=""
     gender=""
