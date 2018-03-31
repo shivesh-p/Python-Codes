@@ -3,6 +3,9 @@
 Created on Fri Mar 23 14:29:52 2018
 
 @author: @shivesh_pandey
+
+This game of tic tac toe is between the player and a randomly move chosen computer. The moves cannot be overwritten
+and a case of draw has to be added successfully for the program to work perfectly.
 """
 import random    
 board=[['_' for i in range (3)] for j in range (3)]
