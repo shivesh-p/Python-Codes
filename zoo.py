@@ -1,3 +1,12 @@
+"""
+@author: shivesh_pandey
+This program is used to explain how to call and use random function and also it 
+gives us an idea of how to use objects for calling the functions of their respective suiper classes and 
+how yo use their functions
+Happy Coding
+
+"""
+
 import random
 
 class Bird:
